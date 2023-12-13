@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import time
 
-!gdown --id 1751VTGlKGLasb2iScv458Y4u69R7ZEk9 --folder
-
 import leafmap
 from samgeo import tms_to_geotiff
 from samgeo.text_sam import LangSAM
